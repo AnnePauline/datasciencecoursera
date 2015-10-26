@@ -1,2 +1,2 @@
-## Coursera data Science
-* Hello World
+## Readme info for Coursera data Science
+* Readme
